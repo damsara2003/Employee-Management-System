@@ -1,0 +1,28 @@
+MODERN GUI UPDATE
+=================
+
+Updated the Swing GUI with a cleaner modern visual system while keeping the existing database/DAO logic unchanged.
+
+Main changes:
+- Modern rounded buttons with hover/pressed effects.
+- Rounded white cards with subtle shadows and borders.
+- Improved input fields with focus highlighting.
+- Modern table styling, row height, selection and headers.
+- Styled combo boxes.
+- Redesigned MainFrame sidebar with modern branding, numbered navigation and active-page highlight.
+- Modern user profile area in the sidebar.
+- Updated application window sizing and spacing.
+- Existing functionality and page navigation are preserved.
+
+Files mainly updated:
+- src/GUI/Theme.java
+- src/GUI/MainFrame.java
+- src/GUI/AttendancePanel.java
+- src/GUI/EmployeePanel.java
+- src/GUI/LeavePanel.java
+- src/GUI/NotificationPanel.java
+- src/GUI/PartTimeEmployeePanel.java
+- src/GUI/PayrollPanel.java
+- src/GUI/ReportsPanel.java
+
+Run the project from IntelliJ using the existing Main class / LoginFrame.
